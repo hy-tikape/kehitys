@@ -7,6 +7,7 @@
 * Yhdistä tekoälyä kurssiin oppimisen kannalta mielekkäällä tavalla
 * Enemmän kannustusta osallistua pajoihin kampuksella
 * Voisiko kurssilla olla pidempi suoritusaika tai koko vuoden avoinna?
+* Syksystä 2025 alkaen tuki R-kielelle
 
 ## Materiaali
 
@@ -17,6 +18,8 @@
   - triggerit
   - funktio ROW_NUMBER
   - operaattori <>
+  - WITH
+* Esittele JOIN aiemmin vaihtoehtona monen taulun kyselyissä
 * Miksi SELECT MAX(COUNT(vuosi)) ei toimi mutta SELECT SUM(LENGTH(sana)) toimii?
 * SQL-kielen esimerkeissä kieleksi englanti
 * Enemmän esimerkkejä vaikeiden SQL-tehtävien ratkaisemisesta
