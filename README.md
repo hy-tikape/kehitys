@@ -4,7 +4,6 @@
 
 * Videot ovat hyödyllisiä ja niitä tulisi olla nykyistä enemmän
 * Kaikki kurssin tehtävät tulisi julkaista heti kurssin alussa
-* Yhdistä tekoälyä kurssiin oppimisen kannalta mielekkäällä tavalla
 * Enemmän kannustusta osallistua pajoihin kampuksella
 * Voisiko kurssilla olla pidempi suoritusaika tai koko vuoden avoinna?
 * Syksystä 2025 alkaen tuki R-kielelle
@@ -28,6 +27,7 @@
 * Tietokantojen teoria: nykyinen materiaali on liian suppea/vaikea
   - Materiaali voi olla liian vaikea ilman matemaattista taustaa
   - Mitä tarkoittaa avaimen nostaminen erityisasemaan?
+  - Miten liitos oikeastaan toimii?
 * NoSQL-tietokannat: tämä tulisi käsitellä materiaalissa, esimerkkeinä MongoDB ja Redis?
 * Tuo esille SQLiten dokumentaatio ja miten sitä kannattaa lukea
 
@@ -47,7 +47,4 @@
 * Paranna tehtävänantoja niin että on selkeämpää mitä tulisi tehdä
 * Teoriatehtävä koetaan edelleen hankalaksi ja epämielekkääksi
   - Monivalinnasta ei saa nyt hyvää palautetta, toisaalta miten estää ettei tehtävä ole liian helppo?
-* NoSQL-tehtävässä linkitetty materiaali ei ole hyvä
-* NoSQL-tehtävässä arvostelussa tulisi suorittaa komennot oikeasti ja tarkistaa niiden toimivuus
-* Voisi olla myös haastavampia ja mielekkäämpiä NoSQL-tehtäviä
 * Ohjelmointitehtävät CSES:ään, jotta niitä voi testata kattavammin ja parempi palaute
