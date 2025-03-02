@@ -30,6 +30,7 @@
   - Miten liitos oikeastaan toimii?
 * NoSQL-tietokannat: tämä tulisi käsitellä materiaalissa, esimerkkeinä MongoDB ja Redis?
 * Tuo esille SQLiten dokumentaatio ja miten sitä kannattaa lukea
+* Käsittele kattavammin eri SQL-tietokantoja (kuten Oracle, MySQL, Microsof SQL Server, MariaDB)
 
 ## SQL Trainer
 
