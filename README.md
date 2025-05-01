@@ -31,6 +31,7 @@
 * NoSQL-tietokannat: tämä tulisi käsitellä materiaalissa, esimerkkeinä MongoDB ja Redis?
 * Tuo esille SQLiten dokumentaatio ja miten sitä kannattaa lukea
 * Käsittele kattavammin eri SQL-tietokantoja (kuten Oracle, MySQL, Microsof SQL Server, MariaDB)
+* Tuo esille, mitkä asiat ovat standardia SQL-kieltä ja mitkä vain SQLiten tukemia
 
 ## SQL Trainer
 
