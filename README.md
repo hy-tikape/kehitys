@@ -32,6 +32,8 @@
 * Tuo esille SQLiten dokumentaatio ja miten sitä kannattaa lukea
 * Käsittele kattavammin eri SQL-tietokantoja (kuten Oracle, MySQL, Microsof SQL Server, MariaDB)
 * Tuo esille, mitkä asiat ovat standardia SQL-kieltä ja mitkä vain SQLiten tukemia
+* Jakolasku `/` tuottaa tuloksena kokonaisluvun (eri tavalla kuin Pythonissa)
+* SQL-kielen käyttötapa eroaa valtavirrasta?
 
 ## SQL Trainer
 
