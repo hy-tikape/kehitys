@@ -12,15 +12,12 @@
 
 * Käsittele kattavammin SQL-kieltä
   - UNION
-  - INNER JOIN
   - näkymät (VIEW)
   - triggerit
   - funktio ROW_NUMBER
-  - operaattori <>
   - WITH
 * Esittele JOIN aiemmin vaihtoehtona monen taulun kyselyissä
 * Miksi SELECT MAX(COUNT(vuosi)) ei toimi mutta SELECT SUM(LENGTH(sana)) toimii?
-* SQL-kielen esimerkeissä kieleksi englanti
 * Enemmän esimerkkejä vaikeiden SQL-tehtävien ratkaisemisesta
 * Esimerkki tietokannan suunnittelusta ja sovelluksen toteutuksesta (Tasks-tehtävää 2 varten)
 * Tietokantojen historia: mitä oli ennen SQL:ää, miten SQL on kehittynyt, mitä tulevaisuudessa?
@@ -37,13 +34,8 @@
 
 ## SQL Trainer
 
-* Paranna toimintaa mobiiliselaimella
-* Uudista käyttöliittymä, nykyinen antaa vanhentuneen kuvan
-* Tulisi olla parempi tekstilaatikko, johon SQL-komento kirjoitetaan (tabin tulisi myös toimia)
 * Paremmat ominaisuudet SQL-komennon toiminnan testaamiseen
-* Kattavammat testit tehtäviin
 * Automatisoituja vinkkejä tehtäviin
-* Tehtävissä taulujen/sarakkeiden kieleksi englanti
 * Miten varmistaa, että SQL-komento on itse tuotettu?
 
 ## Tasks-tehtävät
