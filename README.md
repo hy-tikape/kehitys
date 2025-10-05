@@ -6,7 +6,6 @@
 * Kaikki kurssin tehtävät tulisi julkaista heti kurssin alussa
 * Enemmän kannustusta osallistua pajoihin kampuksella
 * Voisiko kurssilla olla pidempi suoritusaika tai koko vuoden avoinna?
-* Syksystä 2025 alkaen tuki R-kielelle
 
 ## Materiaali
 
@@ -31,6 +30,7 @@
 * Tuo esille, mitkä asiat ovat standardia SQL-kieltä ja mitkä vain SQLiten tukemia
 * Jakolasku `/` tuottaa tuloksena kokonaisluvun (eri tavalla kuin Pythonissa)
 * SQL-kielen käyttötapa eroaa valtavirrasta?
+* Transaktioiden eritystasot käsitelty lyhyesti ja vaikeita ymmärtää
 
 ## SQL Trainer
 
