@@ -20,10 +20,6 @@
 * Enemmän esimerkkejä vaikeiden SQL-tehtävien ratkaisemisesta
 * Esimerkki tietokannan suunnittelusta ja sovelluksen toteutuksesta (Tasks-tehtävää 2 varten)
 * Tietokantojen historia: mitä oli ennen SQL:ää, miten SQL on kehittynyt, mitä tulevaisuudessa?
-* Tietokantojen teoria: nykyinen materiaali on liian suppea/vaikea
-  - Materiaali voi olla liian vaikea ilman matemaattista taustaa
-  - Mitä tarkoittaa avaimen nostaminen erityisasemaan?
-  - Miten liitos oikeastaan toimii?
 * NoSQL-tietokannat: tämä tulisi käsitellä materiaalissa, esimerkkeinä MongoDB ja Redis?
 * Tuo esille SQLiten dokumentaatio ja miten sitä kannattaa lukea
 * Käsittele kattavammin eri SQL-tietokantoja (kuten Oracle, MySQL, Microsof SQL Server, MariaDB)
@@ -41,6 +37,3 @@
 ## Tasks-tehtävät
 
 * Paranna tehtävänantoja niin että on selkeämpää mitä tulisi tehdä
-* Teoriatehtävä koetaan edelleen hankalaksi ja epämielekkääksi
-  - Monivalinnasta ei saa nyt hyvää palautetta, toisaalta miten estää ettei tehtävä ole liian helppo?
-* Ohjelmointitehtävät CSES:ään, jotta niitä voi testata kattavammin ja parempi palaute
