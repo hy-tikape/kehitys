@@ -27,6 +27,7 @@
 * Jakolasku `/` tuottaa tuloksena kokonaisluvun (eri tavalla kuin Pythonissa)
 * SQL-kielen käyttötapa eroaa valtavirrasta?
 * Transaktioiden eritystasot käsitelty lyhyesti ja vaikeita ymmärtää
+* Tuo esille enemmän SQL:n muotoilun käytäntöjä (tuleeko AS, COALESCE/IFNULL, sisennykset)
 
 ## SQL Trainer
 
@@ -34,6 +35,7 @@
 * Automatisoituja vinkkejä tehtäviin
 * Miten varmistaa, että SQL-komento on itse tuotettu?
 
-## Tasks-tehtävät
+## Projektitehtävät
 
 * Paranna tehtävänantoja niin että on selkeämpää mitä tulisi tehdä
+* Tuo esille paremmin, miten saa käyttää kursimateriaalin ulkopuolisia lähteitä ja tekoälyä
