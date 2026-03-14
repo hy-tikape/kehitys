@@ -28,6 +28,7 @@
 * SQL-kielen käyttötapa eroaa valtavirrasta?
 * Transaktioiden eritystasot käsitelty lyhyesti ja vaikeita ymmärtää
 * Tuo esille enemmän SQL:n muotoilun käytäntöjä (tuleeko AS, COALESCE/IFNULL, sisennykset)
+* "REFERENCES-viittauksia esiintyy jo kolmannessa osiossa, mutta vasta seitsemännessä kerrotaan, että nämä eivät tee mitään, ellei vaihta asetuksia"
 
 ## SQL Trainer
 
