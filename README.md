@@ -40,3 +40,4 @@
 
 * Paranna tehtävänantoja niin että on selkeämpää mitä tulisi tehdä
 * Tuo esille paremmin, miten saa käyttää kursimateriaalin ulkopuolisia lähteitä ja tekoälyä
+* Tehtävässä 5 koodipohjassa on virheitä?
