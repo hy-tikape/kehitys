@@ -18,7 +18,6 @@
 * Käsittele kattavammin eri SQL-tietokantoja (kuten Oracle, MySQL, Microsof SQL Server, MariaDB)
 * Tuo esille, mitkä asiat ovat standardia SQL-kieltä ja mitkä vain SQLiten tukemia
 * SQL-kielen käyttötapa eroaa valtavirrasta?
-* Transaktioiden eritystasot käsitelty lyhyesti ja vaikeita ymmärtää
 * Tuo esille enemmän SQL:n muotoilun käytäntöjä (tuleeko AS, COALESCE/IFNULL, sisennykset)
 
 ## SQL Trainer
