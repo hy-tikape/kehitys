@@ -9,10 +9,6 @@
 
 ## Materiaali
 
-* Käsittele kattavammin SQL-kieltä
-  - näkymät (VIEW)
-  - triggerit
-  - funktio ROW_NUMBER
 * Esittele JOIN aiemmin vaihtoehtona monen taulun kyselyissä
 * Enemmän esimerkkejä vaikeiden SQL-tehtävien ratkaisemisesta
 * Esimerkki tietokannan suunnittelusta ja sovelluksen toteutuksesta (Tasks-tehtävää 2 varten)
