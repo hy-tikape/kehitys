@@ -14,7 +14,6 @@
 * Tietokantojen historia: mitä oli ennen SQL:ää, miten SQL on kehittynyt, mitä tulevaisuudessa?
 * NoSQL-tietokannat: tämä tulisi käsitellä materiaalissa, esimerkkeinä MongoDB ja Redis?
 * Tuo esille SQLiten dokumentaatio ja miten sitä kannattaa lukea
-* Käsittele kattavammin eri SQL-tietokantoja (kuten Oracle, MySQL, Microsoft SQL Server, MariaDB)
 * Tuo esille, mitkä asiat ovat standardia SQL-kieltä ja mitkä vain SQLiten tukemia
 * SQL-kielen käyttötapa eroaa valtavirrasta?
 * Tuo esille enemmän SQL:n muotoilun käytäntöjä (tuleeko AS, COALESCE/IFNULL, sisennykset)
